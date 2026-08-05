@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">Game Developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batu-ta" alt="batu-ta" /></a> </p>
-
 - 🔭 I’m currently working on [Gamerisen platform](https://www.gamerisen.com/)
 
 - 🌱 I’m currently learning **Game Design & Engines**
